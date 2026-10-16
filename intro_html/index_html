@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+     <meta charset="utf-8">
+    <title>Intro to HTML</title>
+</head>
+
+<body>
+<h1>Cleveland Browns</h1>
+<hr>
+<P>The Cleveland Browns are a professional American football team in the NFL. They play in Cleveland Ohio in the AFC North division. The team wears orange and white and is owned by Jimmy D Haslem. The Browns are not a historically good team yet have one of the strongest fan bases because of that drive to be good one season in the future.    </P>
+<hr>
+<h2>Cleveland Browns Current Situation</h2>
+<hr>
+<p>The 2026-2027 season for the Cleveland Browns is under way right now heading into week six. The Browns are having a shocking performance right now sitting at a 3-2 record and tied for first in their tough division. Deshaun Watson the leader and quarter back for this year is trying to revive his career after several injuries and legal issues and it appears to be going to plan considering the Browns we'er widely only expected to win 3-4 games this whole season he is off to a shocking good start. The Browns play the Baltimore Ravens Sunday October 18th and hope to claim first place in the division and win it for the first time since 1989.</p>
+<hr>
+<H3>Copy Rights</H3>
+<hr>
+
+<ul>
+
+   <li><a href="https://www.espn.com/nfl/player/_/id/3122840/deshaun-watson" target="_blank">Deshaun Watson</a></li>
+   <li>Jimmy D Haslem</li>
+   <li> Cleveland Browns</li>
+   <li>Nfl</li>
+<ul></ul>
+
+</body>
+
+
+</html>
